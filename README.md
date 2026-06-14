@@ -10,7 +10,7 @@ no telemetry, all local.
 - **Pro ($19, one-time):** custom schedules, long stretch breaks, work hours,
   strict mode, daily stats & streaks.
 
-Website: https://blink.vercel.app
+Website: https://blink-sb0210s-projects.vercel.app
 
 ## Download
 Grab the latest `.dmg` from [Releases](https://github.com/siddharthbulia/tinytools-blink/releases).
